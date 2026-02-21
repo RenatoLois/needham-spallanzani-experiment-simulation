@@ -37,7 +37,8 @@ canvas {
     height: 90vh;
     max-width: 15vh;
     position: absolute;
-    right: 5vh;
+    right: 0;
+    margin-right: 50px;
     top: 5vh;
 }
 
